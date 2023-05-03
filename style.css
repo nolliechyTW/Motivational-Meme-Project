@@ -13,8 +13,8 @@ p{
 
 
 #first{
-    width: 70%;
-    margin-left: 15%;
+    width: 60%;
+    margin-left: 20%;
     margin-top: 100px;
     color:white;
     font-family: 'Rubik', sans-serif;
@@ -23,5 +23,5 @@ p{
 
 .Kronk{
     border:5px solid white;
-    width: 100%;
+    width: 90%;
 }
